@@ -31,6 +31,7 @@
     "typescript": "^5.2.2"
   },
   "devDependencies": {
+    "@flydotio/dockerfile": "^0.4.10",
     "@typescript-eslint/parser": "^6.2.0",
     "eslint": "^8.46.0",
     "eslint-plugin-astro": "^0.28.0",
